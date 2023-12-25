@@ -1,0 +1,2 @@
+Hello This is Prateek and this is a simple tutorial on learning git and github
+
